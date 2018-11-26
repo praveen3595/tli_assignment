@@ -2,7 +2,7 @@
 A simple MVC project
 
 ### Running the Project
-1. Open `NYTimes.xcodeproj` in Xcode
+1. Open `TLI.xcodeproj` in Xcode
 2. Build and run!
 
 
@@ -36,7 +36,7 @@ No dependences required.
 
 
 ### Unit Test
-* `NYTimesTests.swift` - Unit test class with simple DataModel initializationTest.
+* `TLITests.swift` - Unit test class with simple DataModel initializationTest.
 Note - For this scope only one testcase written more Testcase  can be done by mocking urlsession with  protocols
 
 ### CodeCoverage
